@@ -23,9 +23,9 @@ I like work where things become clearer:
 
 ## Portfolio
 
-- [Project coordination portfolio](../project-coordination-portfolio)
-- [Operations process improvement](../operations-process-improvement)
-- [QA portfolio](../qa-portfolio)
+- [Project coordination portfolio](https://github.com/scorpio0011/project-coordination-portfolio)
+- [Operations process improvement](https://github.com/scorpio0011/operations-process-improvement)
+- [QA portfolio](https://github.com/scorpio0011/qa-portfolio)
 
 ## What I am looking for
 
@@ -38,4 +38,3 @@ I am open to roles where my operations experience can be useful in IT:
 - Business / Process Analyst
 
 I do not claim to know everything. I am learning, practicing, and building this portfolio step by step.
-
