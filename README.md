@@ -4,11 +4,11 @@ I am moving toward IT project coordination, junior project management, operation
 
 My background is in operations: clients, contracts, documents, payments, people, deadlines, and many everyday problems that still had to be solved.
 
-I like work where things become clearer:
+I like work where things become a bit less chaotic:
 
 - messy process -> structured workflow
 - unclear task -> owner, deadline, next step
-- repeated manual work -> checklist, table, template, or better process
+- repeated manual work -> checklist, table, template, or a better process
 - product uncertainty -> test case, bug report, question, or requirement clarification
 
 ## What I am learning now
@@ -26,6 +26,8 @@ I like work where things become clearer:
 - [Project coordination portfolio](https://github.com/scorpio0011/project-coordination-portfolio)
 - [Operations process improvement](https://github.com/scorpio0011/operations-process-improvement)
 - [QA portfolio](https://github.com/scorpio0011/qa-portfolio)
+
+These repositories are not commercial IT projects. They are small portfolio examples that show how I structure work, write documentation, and think through QA/process tasks.
 
 ## What I am looking for
 
