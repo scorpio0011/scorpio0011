@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I am Andrei
 
-<!--
-**scorpio0011/scorpio0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am moving toward IT project coordination, junior project management, operations, and QA roles.
 
-Here are some ideas to get you started:
+My background is in operations: clients, contracts, documents, payments, people, deadlines, and many everyday problems that still had to be solved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like work where things become clearer:
+
+- messy process -> structured workflow
+- unclear task -> owner, deadline, next step
+- repeated manual work -> checklist, table, template, or better process
+- product uncertainty -> test case, bug report, question, or requirement clarification
+
+## What I am learning now
+
+- Project coordination
+- Agile and Scrum basics
+- Jira and Confluence
+- QA fundamentals
+- Test cases and bug reports
+- API basics and Postman
+- SQL basics
+
+## Portfolio
+
+- [Project coordination portfolio](../project-coordination-portfolio)
+- [Operations process improvement](../operations-process-improvement)
+- [QA portfolio](../qa-portfolio)
+
+## What I am looking for
+
+I am open to roles where my operations experience can be useful in IT:
+
+- Project Coordinator
+- Junior Project Manager
+- Operations Manager
+- QA Engineer
+- Business / Process Analyst
+
+I do not claim to know everything. I am learning, practicing, and building this portfolio step by step.
+
